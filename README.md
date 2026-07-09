@@ -1,4 +1,5 @@
 seedream + workbuddy做了三个儿童绘本
+
 <img width="350" height="460" alt="微信图片_20260709180207_148_3" src="https://github.com/user-attachments/assets/f178ecb0-7fa9-49fb-9412-771995887a69" />
 
 1、《小王子悉达多：寻找心中亮光的故事》的绘本脚本，适合3-8岁孩子，主题是“佛陀的一生”，目的是让孩子认识佛陀的故事，体会慈悲、善良与内心的平静（已去掉宗教内容）
